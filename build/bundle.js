@@ -21955,7 +21955,7 @@ var Home = function Home() {
     ),
     _react2.default.createElement(
       'button',
-      { onClick: console.log('Hi There!') },
+      { onClick: console.log('yolo') },
       'Press Me'
     )
   );

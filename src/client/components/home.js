@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <div>
       <div>Home!!!!</div>
-      <button onClick={console.log('Hi There!')}>Press Me</button>
+      <button onClick={console.log('yolo')}>Press Me</button>
     </div>
   );
 };
